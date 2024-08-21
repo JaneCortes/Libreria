@@ -11,4 +11,4 @@ Este es un proyecto de aplicación web para una biblioteca virtual. Permite a lo
 + **HTML/CSS:** Para la estructura y el diseño de la interfaz de usuario.
 + **JavaScript:** Para la funcionalidad interactiva y la manipulación de datos en el frontend.
 ## Vista Previa del Proyecto
-![Demo](/Imagenes/vistaprevia.png)
+![Demo](./imagenes/vistaprevia.png)
